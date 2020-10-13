@@ -11,6 +11,7 @@
 java >=1.8
 spring-boot >=2.4.0
 maven >= 3.6.3
+postgreSQL >= 11.9
 ```
 
 ## 🔨 Install
